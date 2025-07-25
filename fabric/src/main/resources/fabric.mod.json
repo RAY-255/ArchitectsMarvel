@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "architectsmarvel",
+  "version": "${version}",
+  "name": "ArchitectsMarvel",
+  "description": "",
+  "authors": [
+    "ray"
+  ],
+  "contact": {
+    "homepage": ""
+  },
+  "license": "MIT",
+  "icon": "assets/architectsmarvel/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.ray.architectsmarvel.fabric.ArchitectsmarvelFabric"
+    ],
+    "client": [
+      "net.ray.architectsmarvel.fabric.client.ArchitectsmarvelFabricClient"
+    ]
+  },
+  "mixins": [
+    "architectsmarvel.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "architectury": ">=13.0.8",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
