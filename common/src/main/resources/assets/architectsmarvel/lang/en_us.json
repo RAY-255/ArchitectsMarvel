@@ -1,11 +1,11 @@
 {
-  "block.ornate_realms.stone_column": "Stone Column",
-  "block.ornate_realms.chiseled_stone_column": "Chiseled Stone Column",
+  "block.architectsmarvel.stone_column": "Stone Column",
+  "block.architectsmarvel.chiseled_stone_column": "Chiseled Stone Column",
 
-  "block.ornate_realms.lapis_bricks": "Lapis Lazuli Bricks",
-  "block.ornate_realms.lapis_brick_stairs": "Lapis Lazuli Brick Stairs",
-  "block.ornate_realms.chiseled_lapis_bricks": "Chiseled Lapis Lazuli Bricks",
-  "block.ornate_realms.lapis_tiles": "Lapis Lazuli Tiles",
+  "block.architectsmarvel.lapis_bricks": "Lapis Lazuli Bricks",
+  "block.architectsmarvel.lapis_brick_stairs": "Lapis Lazuli Brick Stairs",
+  "block.architectsmarvel.chiseled_lapis_bricks": "Chiseled Lapis Lazuli Bricks",
+  "block.architectsmarvel.lapis_tiles": "Lapis Lazuli Tiles",
 
-  "item.ornate_realms.example_item": "Example Item"
+  "item.architectsmarvel.example_item": "Example Item"
 }

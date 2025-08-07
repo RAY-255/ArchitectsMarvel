@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "ornate_realms:block/amethyst_lamp"
+      "model": "architectsmarvel:block/amethyst_lamp"
     }
   }
 }

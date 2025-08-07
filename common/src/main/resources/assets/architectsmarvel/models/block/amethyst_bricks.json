@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "ornate_realms:block/amethyst_bricks"
+    "all": "architectsmarvel:block/amethyst_bricks"
   }
 }

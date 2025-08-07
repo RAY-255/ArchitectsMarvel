@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "ornate_realms:block/chiseled_amethyst_bricks"
+      "model": "architectsmarvel:block/chiseled_amethyst_bricks"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "parent": "minecraft:block/outer_stairs",
   "textures": {
-    "bottom": "ornate_realms:block/lapis_tiles",
-    "side": "ornate_realms:block/lapis_tiles",
-    "top": "ornate_realms:block/lapis_tiles"
+    "bottom": "architectsmarvel:block/lapis_tiles",
+    "side": "architectsmarvel:block/lapis_tiles",
+    "top": "architectsmarvel:block/lapis_tiles"
   }
 }

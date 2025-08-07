@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "architectsmarvel:block/chiseled_amethyst_bricks"
+    "all": "architectsmarvel:block/chiseled_calcite_bricks"
   }
 }

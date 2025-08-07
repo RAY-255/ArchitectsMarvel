@@ -8,8 +8,8 @@ import net.minecraft.world.level.Level;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.state.BlockState;
 
-public class AmethystLamp extends Block {
-    public AmethystLamp(Properties properties) {
+public class AmethystLampBlock extends Block {
+    public AmethystLampBlock(Properties properties) {
         super(properties);
     }
     @Override

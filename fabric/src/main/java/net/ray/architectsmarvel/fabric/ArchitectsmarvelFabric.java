@@ -1,6 +1,6 @@
 package net.ray.architectsmarvel.fabric;
 
-import net.ray.architectsmarvel.Architectsmarvel;
+import net.ray.architectsmarvel.ArchitectsMarvel;
 import net.fabricmc.api.ModInitializer;
 
 public final class ArchitectsmarvelFabric implements ModInitializer {
@@ -11,6 +11,6 @@ public final class ArchitectsmarvelFabric implements ModInitializer {
         // Proceed with mild caution.
 
         // Run our common setup.
-        Architectsmarvel.init();
+        ArchitectsMarvel.init();
     }
 }

@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "ornate_realms:block/lapis_bricks"
+      "model": "architectsmarvel:block/lapis_bricks"
     }
   }
 }

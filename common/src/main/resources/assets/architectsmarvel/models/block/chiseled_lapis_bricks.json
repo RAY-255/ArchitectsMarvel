@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "ornate_realms:block/chiseled_lapis_bricks"
+    "all": "architectsmarvel:block/chiseled_lapis_bricks"
   }
 }

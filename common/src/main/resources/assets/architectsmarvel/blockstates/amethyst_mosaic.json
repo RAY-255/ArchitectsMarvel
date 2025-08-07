@@ -1,15 +1,15 @@
 {
   "variants": {
     "axis=x": {
-      "model": "ornate_realms:block/amethyst_mosaic_horizontal",
+      "model": "architectsmarvel:block/amethyst_mosaic_horizontal",
       "x": 90,
       "y": 90
     },
     "axis=y": {
-      "model": "ornate_realms:block/amethyst_mosaic"
+      "model": "architectsmarvel:block/amethyst_mosaic"
     },
     "axis=z": {
-      "model": "ornate_realms:block/amethyst_mosaic_horizontal",
+      "model": "architectsmarvel:block/amethyst_mosaic_horizontal",
       "x": 90
     }
   }

@@ -1,13 +1,13 @@
 {
   "variants": {
     "type=bottom": {
-      "model": "ornate_realms:block/lapis_tile_slab"
+      "model": "architectsmarvel:block/lapis_tile_slab"
     },
     "type=double": {
-      "model": "ornate_realms:block/lapis_tiles"
+      "model": "architectsmarvel:block/lapis_tiles"
     },
     "type=top": {
-      "model": "ornate_realms:block/lapis_tile_slab_top"
+      "model": "architectsmarvel:block/lapis_tile_slab_top"
     }
   }
 }
