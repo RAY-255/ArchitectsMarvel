@@ -10,6 +10,7 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.level.LevelAccessor;
 import net.minecraft.world.level.block.BaseEntityBlock;
+import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.RenderShape;
 import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.entity.BlockEntity;
@@ -19,7 +20,7 @@ import net.ray.architectsmarvel.blockentity.SpotlightBlockEntity;
 import net.ray.architectsmarvel.registry.BlocksReg;
 import org.jetbrains.annotations.Nullable;
 
-public class SpotlightBlock extends BaseEntityBlock {
+public class SpotlightBlock extends Block {
 
     public SpotlightBlock() {
         super(Properties.of().mapColor(MapColor.COLOR_YELLOW).requiresCorrectToolForDrops().strength(3F, 10.0F).randomTicks().sound(SoundType.GLASS).lightLevel((i) -> 6));
@@ -61,11 +62,5 @@ public class SpotlightBlock extends BaseEntityBlock {
 
     public RenderShape getRenderShape(BlockState state) {
         return RenderShape.MODEL;
-    }
-
-    @Nullable
-    @Override
-    public BlockEntity newBlockEntity(BlockPos pos, BlockState state) {
-        return new SpotlightBlockEntity(pos, state);
     }
 }
